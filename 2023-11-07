@@ -1,0 +1,25 @@
+Report for the Date : 2023/11/07
+Name : Kasha Singh
+ITE No : ITE001456
+Things I did today : 
+1. Learnt about basic concepts of Ros2 
+-> Using turtlesim, ros2, and rqt
+-> Understanding nodes, topics and services
+-> Subscriber and Publisher
+-> Services
+-> Client
+
+2. Learnt how to write Python code for publisher, subscriber, and client service
+
+3. Worked on turtle sim package 
+-> Creating publisher
+-> Creating subscriber
+-> Closed loop system of publisher and subscriber
+-> Creating a service client with Python to manage the turtle
+
+4. Learnt basic concepts of Nav2 Library
+-> Planning
+-> Perception
+-> Localisation
+
+5. Writing optimal code for RRT* algorithm  (In progress)
