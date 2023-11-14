@@ -1,0 +1,18 @@
+Report for the Date : 2023/11/10
+Name : Kasha Singh
+ITE No : ITE001456
+Things I did today : 
+1. Learnt about working of LiDar sensor
+-> How it captures data
+-> Point cloud
+-> Format of json file: position, dimensions and heading angle(centroid)
+
+2. Learnt about concepts of custom dataset training
+-> Using dataset for pedestrians captured using LiDar sensor and totalstation
+-> Labeling the pedestrian dataset by drawing bounding boxes 
+-> Getting the heading angle of the pedestrians using their trajectories
+-> Then training the model for pedestrians
+
+3. Learnt about testcases of the model
+-> Testcases when the robot was static and the pedestrian was moving
+-> Testcases when the robot was moving and the pedestrian was static
