@@ -1,0 +1,16 @@
+Report for the Date : 2023/11/14
+Name : Kasha Singh
+ITE No : ITE001456
+Things I did today : 
+1. Learnt about R tree data structure 
+-> Creating index
+-> Property
+-> Used it for finding nearest neighbour
+-> Optimized the code for RRT* using R tree
+
+2. Optimized the code for search space in RRT*
+
+3. Wrote the code for obstacle generator in RRT*
+-> Analyzed how the position of obstacles affects the optimal path
+
+4. Used plotting functions in python to visualize the optimal path
