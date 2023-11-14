@@ -1,0 +1,28 @@
+Report for the Date : 2023/11/09
+Name : Kasha Singh
+ITE No : ITE001456
+Things I did today : 
+1. Learnt about concepts of Nav2 Library 
+-> Navigation Servers
+-> (SLAM) Navigating While Mapping
+-> Tuning parameters
+
+2. Learnt about concepts of ROS2
+-> Using parameters in a class in C++ and Python
+-> Writing a publisher and subscriber(C++ and Python)
+-> Writing a service and client(C++ and Python)
+
+3. Learnt how to use gazebo
+-> Gazebo sim architecture
+-> Backend server process
+-> Communication process
+-> Frontend client process
+
+4. Worked on turtle sim package
+-> Creating publisher
+-> Creating subscriber
+-> Closed loop system of publisher and subscriber
+-> Creating a service client with Python to manage the turtle
+
+5. Reviewed path-planning algorithms
+-> RRT and RRT*
