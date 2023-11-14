@@ -1,0 +1,16 @@
+Report for the Date : 2023/11/13
+Name : Kasha Singh
+ITE No : ITE001456
+Things I did today : 
+1. Studied sampling-based algorithms for optimal motion planning
+-> RRT
+-> RRT*
+
+2. Compared RRT and RRT* using an example simulation
+-> RRT* improves by rewiring the tree to form shortest paths
+
+3. Tried to optimize the code for RRT* algorithm using a bad implementation
+
+4. Learnt about navigating a simulated Turtlebot3 in the gazebo simulator
+-> 2DPoseEstimate
+-> Navigation2 Goal
