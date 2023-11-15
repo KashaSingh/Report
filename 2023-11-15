@@ -6,6 +6,10 @@ Things I did today :
 for search space and plotting functions but it was not working
 
 2. So, optimized the code for RRT* using RRT as base
+-> Added function rewire(): After a vertex has been connected to the cheapest neighbour,
+the neighbours are again examined. Neighbours are checked if being rewired to the newly 
+added vertex will make their cost(the distance each vertex has traveled relative to its parent vertex) decrease.
+
 Code for RRT:
 import math
 import random
