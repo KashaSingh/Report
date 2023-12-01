@@ -3,16 +3,12 @@ Name : Kasha Singh
 ITE No : ITE001456
 
 Previous:
-
+Training the custom model
 
 Today:
-1. 
-
-2. 
--> 
-
-3. 
--> 
-
+1. The model training is still going on
+2. Learnt about point cloud range and voxel sizes in voxel based detectors
+3. Learnt about category mapping between custom dataset and KITTI
 
 Next:
+Testing the model for robot
