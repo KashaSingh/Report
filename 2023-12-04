@@ -3,9 +3,18 @@ Name : Kasha Singh
 ITE No : ITE001456
 
 Previous:
-Training the custom model
+Training the model
 
 Today:
-1. 
+- Tested the model
+python3 test.py --cfg_file ../output/custom_models/pv_rcnn/default/pv_rcnn.yaml --ckpt ../output/custom_models/pv_rcnn/default/ckpt/latest_model.pth
+
+- Plot for robot test data
+
+- Accuracy
+Average displacement error: 0.27
+
+- Converted the .npy robot pointcloud files to .bin for testing 
+The script which I wrote was not working,so got it from Garima san
 
 Next:
