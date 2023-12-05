@@ -7,8 +7,9 @@ Previous:
 
 Today:
 - Learnt about running model in docker image
+- Pull and run docker image
 - Tried to find ways to improve the accuracy of a custom model
-- 
+- Comparing the accuracy of pretrained models in OpenPCDet
 
 Next:
 - Improving the model
