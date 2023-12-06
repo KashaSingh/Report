@@ -5,8 +5,11 @@ ITE No : ITE001456
 Previous:
 - Learnt about running model in docker
 
+
 Today:
 - Tuned the hyperparameters for custom dataset
+
+- script.py
 
 CLASS_NAMES: ['Robot', 'Pedestrian']  
 ...
@@ -25,9 +28,11 @@ filter_by_difficulty: [-1],
 SAMPLE_GROUPS: ['Robot:15','Pedestrian:10']
 ...
 
+
 - Using PartA2_free.yaml cfg to train the model
 as it has the highest accuracy for pedestrian in OpenPCDet model zoo,
 so using it for custom training robot 
+
 
 Next:
 - Improving the model
