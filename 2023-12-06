@@ -26,7 +26,7 @@ SAMPLE_GROUPS: ['Robot:15','Pedestrian:10']
 ...
 
 - Using PartA2_free.yaml cfg to train the model
-as it has the higher acc
+as it has the highest accuracy for pedestrian in OpenPCDet model zoo 
 
 Next:
 - Improving the model
