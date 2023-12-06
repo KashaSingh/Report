@@ -1,0 +1,32 @@
+Report for the Date : 2023/12/06
+Name : Kasha Singh
+ITE No : ITE001456
+
+Previous:
+- Learnt about running model in docker
+
+Today:
+- Tuned the hyperparameters for custom dataset
+
+CLASS_NAMES: ['Robot', 'Pedestrian']  
+...
+MAP_CLASS_TO_KITTI: {
+   'Robot': 'Robot',
+   'Pedestrian':'Pedestrian'
+}
+...
+'anchor_sizes': [[3.9, 1.6, 1.56]],
+...
+# In gt sampling data augmentation
+PREPARE: {
+filter_by_min_points: ['Robot:5','Pedestrian:5'],
+filter_by_difficulty: [-1],
+}
+SAMPLE_GROUPS: ['Robot:15','Pedestrian:10']
+...
+
+- Using PartA2_free.yaml cfg to train the model
+as it has the higher acc
+
+Next:
+- Improving the model
